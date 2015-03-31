@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fantasy Stock Market</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_account">user_account</string>
+    <string name="title_activity_user__account">User_Account</string>
+    <string name="title_activity_account__setup">Account_Setup</string>
+    <string name="title_activity_view__weekly__match">View_Weekly_Match</string>
+    <string name="title_activity_create__new__league">Create_New_League</string>
+    <string name="title_activity_leagues">Leagues</string>
+    <string name="title_activity_buy__sell__stock">Buy_Sell_Stock</string>
+    <string name="title_activity_buy__stock">Buy_Stock</string>
+    <string name="title_activity_sell__stock">Sell_Stock</string>
+    <string name="title_activity_hun">HUn</string>
+    <string name="title_activity_league__standing">League_Standing</string>
+</resources>
